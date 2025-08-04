@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Clásica",
+        "descripcion": "Hamburguesas clásicas y sabrosas"
+    },
+    {
+        "nombre": "Vegetariana",
+        "descripcion": "Hamburguesas sin carne, perfectas para vegetarianos"
+    },
+    {
+        "nombre": "Gourmet",
+        "descripcion": "Hamburguesas gourmet con ingredientes premium"
+    }
+]

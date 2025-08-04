@@ -1,0 +1,5 @@
+ARCHIVO_JASON = 'data/datos.json'
+ARCHIVO_JASON = 'data/datos_ingredientes.json'
+ARCHIVO_JASON = 'data/datos_categorias.json'
+ARCHIVO_JASON = 'data/datos_hambuguesas.json'
+ARCHIVO_JASON = 'data/datos_chefs.json'
